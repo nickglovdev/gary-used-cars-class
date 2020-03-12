@@ -1,3 +1,10 @@
+.carList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
 .car {
     border: 1px dotted darkgoldenrod;
     padding: 0.5rem;
